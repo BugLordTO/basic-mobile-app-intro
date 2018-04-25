@@ -52,12 +52,16 @@ npm --version
 npm install -g ionic cordova
 ```
 ---
-### App ตัวแรกบนมือถือของฉัน!!
+### App ตัวแรกบนมือถือของฉัน!! (1)
 
 1.ใช้คำสั่ง ionic เพื่อทำการสร้าง App
 ```
 ionic start myApp tabs
 ```
+
+![img](/imgs/ionic-start.png)
+---
+### App ตัวแรกบนมือถือของฉัน!! (2)
 
 2.Ionic จะถามว่าเราต้องการใช้ Cordova เพื่อสร้าง App ให้ทำงานกับ iOS กับ Android หรือไม่?  
 ในข้อนี้ให้ตอบ y
@@ -73,7 +77,8 @@ native iOS and Android?
 Install the free Ionic Pro SDK and connect your app?
 > No
 ```
-
+---
+### App ตัวแรกบนมือถือของฉัน!! (3)
 4.เมื่อติดตั้งเสร็จให้ทำการเข้าไปยังโฟร์เดอร์ myApp
 ```
 cd myApp
