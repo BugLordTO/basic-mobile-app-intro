@@ -47,29 +47,39 @@ npm --version
 ---
 ### ติดตั้ง Ionic CLI
 
+ติดตั้ง Ionic และ Cordova (ทำครั้งเดียว)
 ```
 npm install -g ionic cordova
 ```
+---
+### App ตัวแรกบนมือถือของฉัน!!
 
+1.ใช้คำสั่ง ionic เพื่อทำการสร้าง App
 ```
-Would you like to integrate your new app with Cordova to target native iOS and Android?
+ionic start myApp tabs
+```
+
+2.Ionic จะถามว่าเราต้องการใช้ Cordova เพื่อสร้าง App ให้ทำงานกับ iOS กับ Android หรือไม่?  
+ในข้อนี้ให้ตอบ y
+```
+Would you like to integrate your new app with Cordova to target
+native iOS and Android?
 > Yes
 ```
 
+3.Ionic จะถามว่าเราจะใช้ Ionic Pro ด้วยหรือไม่?  
+ในข้อนี้ให้ตอบ n
 ```
 Install the free Ionic Pro SDK and connect your app?
 > No
 ```
 
----
-### App ตัวแรกบนมือถือของฉัน!!
-
-```
-ionic start myApp tabs
-```
+4.เมื่อติดตั้งเสร็จให้ทำการเข้าไปยังโฟร์เดอร์ myApp
 ```
 cd myApp
 ```
+
+5.สั่งเปิด App จากเครื่องของเรา
 ```
 ionic serve
 ```
@@ -82,3 +92,15 @@ ionic serve
 ### โครงสร้าง App
 
 ![img](/imgs/structure01.png)
+
+
+
+
+
+---
+### C# Fundamentals
+
+[Saladpuk.com](https://www.youtube.com/playlist?list=PLUjAn8nwWnijERZ3HpzBk7NfSrau74_lQ)
+
+
+![img](/imgs/saladpuk.png)
