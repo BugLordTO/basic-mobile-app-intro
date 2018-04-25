@@ -3,11 +3,12 @@
 
 ## เนื้อหาประกอบคอร์ส
 * วันที่ 1
-    * [รู้จักกันหน่อยไหม :)](https://gitpitch.com/Sakul/ionic?p=day-1)
+    * [รู้จักกันหน่อยไหม :)](https://gitpitch.com/mastertraining/basic-mobile-app-intro/p?p=day-1#)
     * [เว็บไซต์หลักของ Ionic framework](https://ionicframework.com)
     * [Ionic Creator แค่ลากวางก็ได้ App!](https://creator.ionic.io)
     * ข้อดี ~ ข้อเสีย ของ Ionic Creator
 * วันที่ 2
+	* [สไลด์ของวันที่ 2](https://gitpitch.com/mastertraining/basic-mobile-app-intro/p?p=day-2#)
     * [การติดตั้ง Ionic](installing-ionic.md)
     * [โครงสร้างโปรเจค](tutorial-structure.md)
     * Command line game ;)
