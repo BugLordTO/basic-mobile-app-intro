@@ -10,7 +10,6 @@
 |ข้อดี|ข้อเสีย|
 |-|-|
 |สร้างง่าย ทำได้เร็ว|ไม่สามารถใช้ความสามารถของ Mobile ได้ทุกอย่าง :(|
-|ไม่ต้องสร้าง App แยกสำหรับ Android, iOS||
 ---
 ### กำจัดจุดอ่อน!!
 
@@ -61,6 +60,10 @@ Would you like to integrate your new app with Cordova to target native iOS and A
 Install the free Ionic Pro SDK and connect your app?
 > No
 ```
+
+---
+### App ตัวแรกบนมือถือของฉัน!!
+
 ```
 ionic start myApp tabs
 ```
@@ -70,3 +73,12 @@ cd myApp
 ```
 ionic serve
 ```
+
+![img](/imgs/ionic-tab.png)
+
+[http://localhost:8100](http://localhost:8100)
+
+---
+### โครงสร้าง App
+
+![img](/imgs/structure01.png)
