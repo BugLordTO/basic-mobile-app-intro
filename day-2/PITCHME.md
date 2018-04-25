@@ -149,7 +149,10 @@ cls
 ```
 Ctrl + c
 ```
+---
+### Live demo
 
+![img](/imgs/livedemo.png)
 ---
 ### Game ชิงรางวัล
 
@@ -158,17 +161,14 @@ Ctrl + c
 ionic start myApp tabs
 ```
 ![img](/imgs/quiz-ionic-structure.png)
+---
+### Ionic CLI
 
-ข้อ 1.ตอนนี้เราอยู่ที่โฟเดอร์ myApp แล้วต้องการไปยังโฟเดอร์ src ต้องใช้คำสั่งอะไรบ้าง?  
-ข้อ 2.ตอนนี้เราอยู่ที่โฟเดอร์ app แล้วต้องการไปยังโฟเดอร์ icon ต้องใช้คำสั่งอะไรบ้าง?  
-ข้อ 3.ตอนนี้เราอยู่ที่โฟเดอร์ pages แล้วต้องการดูไฟล์ที่อยู่ในโฟเดอร์ them ต้องใช้คำสั่งอะไรบ้าง?  
+```
+ionic start
+```
 
-
-
-
-
-
-
+![img](/imgs/livedemo.png)
 
 ---
 ### C# Fundamentals
@@ -176,4 +176,4 @@ ionic start myApp tabs
 [Saladpuk.com](https://www.youtube.com/playlist?list=PLUjAn8nwWnijERZ3HpzBk7NfSrau74_lQ)
 
 
-![img](/imgs/saladpuk.png)
+![img](/imgs/saladpuk-logo.png)
