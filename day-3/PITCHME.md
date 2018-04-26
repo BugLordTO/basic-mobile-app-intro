@@ -33,7 +33,7 @@
 ### สร้าง app  ถ่ายรูป
 - สร้าง app  
 ```
-ionic start myapp tabs
+ionic start myapp blank
 ```
 
 - เพิ่ม plugin camera  
