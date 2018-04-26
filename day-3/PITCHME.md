@@ -155,9 +155,18 @@ cd /f/git/myapp
 ---
 
 ### อัพโหลด app ขึ้น ionic pro (ต่อ)  
+- พิมพ์ command เพื่อ login กับ ionic pro  
+```
+ionic login
+```
+![img](/imgs/day-3-upload-7.png)  
+
+---
+
+### อัพโหลด app ขึ้น ionic pro (ต่อ)  
 - พิมพ์ command เพื่อ link กับ ionic pro  
 ```
-ionin link [app-id]
+ionic link [app-id]
 ```
 ![img](/imgs/day-3-upload-1.png)  
 
