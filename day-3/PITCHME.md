@@ -194,4 +194,17 @@ git push ionic master
 
 ---
 
+### update app
+```
+git add *
+```
+```
+git commit -m "{commet message}"
+```
+```
+git push ionic master
+```
+
+---
+
 ### Share & comment
