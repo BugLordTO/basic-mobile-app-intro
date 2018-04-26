@@ -1,6 +1,5 @@
 ### Intro
-![img](/imgs/seen-the-future.png)
-
+![img](/imgs/ionic-view-logo.png)  
 ---
 
 ### Overview
@@ -14,18 +13,12 @@
 - tortoise git  
  [32-bit Git for Windows Setup.](https://github.com/git-for-windows/git/releases/download/v2.16.2.windows.1/Git-2.16.2-32-bit.exe)  
  [64-bit Git for Windows Setup.](https://github.com/git-for-windows/git/releases/download/v2.16.2.windows.1/PortableGit-2.16.2-64-bit.7z.exe)  
-![img](/imgs/git-logo.png)  
 
 - Visual Code  
 [Visual Code](https://go.microsoft.com/fwlink/?Linkid=852157)  
-![img](/imgs/vscode-logo.png)  
 
----
-
-### ลงโปรแกรม (ต่อ)  
 - ionic view บน play store  
 [ionic view](https://play.google.com/store/apps/details?id=com.ionicframework.view)  
-![img](/imgs/ionic-view-logo.png)  
 
 - ข้อจำกัด สำหรับ ionic view  
   - android :No problem !  
@@ -42,12 +35,16 @@
 ### สร้าง app บน ionic cloud  
 [https://ionicframework.com](https://ionicframework.com)  
 ![img](/imgs/day-3-upload-6.png)  
+
+---
+
+### อัพโหลด app ขึ้น ionic cloud (ต่อ)
 ![img](/imgs/day-3-upload-4.png)  
 ![img](/imgs/day-3-upload-5.png)  
 
 ---
 
-### อัพโหลด app ขึ้น ionic cloud
+### อัพโหลด app ขึ้น ionic cloud (ต่อ)
 - link app ที่ local กับบน ionic cloud  
 - เปิด git bash  
 
@@ -58,13 +55,17 @@ cd /f/git/myapp
 ```  
 
 ---
+
+### อัพโหลด app ขึ้น ionic cloud (ต่อ)
 - พิมพ์ command  
 ```
 ionin link [app-id]
 ```
-
-### อัพโหลด app ขึ้น ionic cloud
 ![img](/imgs/day-3-upload-1.png)  
+
+---
+
+### อัพโหลด app ขึ้น ionic cloud (ต่อ)
 ![img](/imgs/day-3-upload-2.png)  
 
 ---
@@ -72,10 +73,6 @@ ionin link [app-id]
 ### รันจริงบน mobile !!
 ![img](/imgs/day-3-upload-7.jpg)  
 
----
-
-### รันจริงบน mobile !!
-![img](/imgs/day-3-upload-8.jpg)  
 ---
 
 ### Share & comment
