@@ -39,7 +39,8 @@ ionic start myapp tabs
 - เพิ่ม plugin camera  
 ```
 ionic cordova plugin add cordova-plugin-camera
-
+```
+```
 npm install —save @ionic-native/camera
 ```
 
