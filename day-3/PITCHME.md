@@ -11,11 +11,10 @@
 ---
 
 ### ลงโปรแกรม
-- git
+- git  
  [32-bit Git for Windows Setup.](https://github.com/git-for-windows/git/releases/download/v2.16.2.windows.1/Git-2.16.2-32-bit.exe)  
- [64-bit Git for Windows Setup.](https://github.com/git-for-windows/git/releases/download/v2.16.2.windows.1/Git-2.16.2-64-bit.exe)
- [macOS Setup.]
- (https://git-scm.com/download/mac)
+ [64-bit Git for Windows Setup.](https://github.com/git-for-windows/git/releases/download/v2.16.2.windows.1/Git-2.16.2-64-bit.exe)  
+ [macOS Setup.](https://git-scm.com/download/mac)
 
 - Visual Code  
 [Visual Code](https://code.visualstudio.com/)  
@@ -32,17 +31,17 @@
 ---
 
 ### สร้าง app  ถ่ายรูป
-- สร้าง app
+- สร้าง app  
 ```
 ionic start myapp tabs
 ```
-- เพิ่ม plugin camera
+- เพิ่ม plugin camera  
 ```
 ionic cordova plugin add cordova-plugin-camera
 
 npm install —save @ionic-native/camera
 ```
-- run app
+- run app  
 ```
 ionic serve
 ```
@@ -123,20 +122,20 @@ capture() {
 
 ---
 
-### สร้าง app บน ionic cloud  
+### สร้าง app บน ionic pro  
 [https://ionicframework.com](https://ionicframework.com)  
 ![img](/imgs/day-3-upload-6.png)  
 
 ---
 
-### อัพโหลด app ขึ้น ionic cloud
+### อัพโหลด app ขึ้น ionic pro  
 ![img](/imgs/day-3-upload-4.png)  
 ![img](/imgs/day-3-upload-5.png)  
 
 ---
 
-### อัพโหลด app ขึ้น ionic cloud (ต่อ)
-- link app ที่ local กับบน ionic cloud  
+### อัพโหลด app ขึ้น ionic pro (ต่อ)  
+- link app ที่ local กับบน ionic pro  
 - เปิด git bash  
 
 ![img](/imgs/day-3-upload-3.png)  
@@ -147,28 +146,28 @@ cd /f/git/myapp
 
 ---
 
-### อัพโหลด app ขึ้น ionic cloud (ต่อ)
-- พิมพ์ command เพื่อ link กับ ionic cloud  
+### อัพโหลด app ขึ้น ionic pro (ต่อ)  
+- พิมพ์ command เพื่อ link กับ ionic pro  
 ```
 ionin link [app-id]
 ```
 ![img](/imgs/day-3-upload-1.png)  
-- - ตั้งค่า username และ email ของ git
+- ตั้งค่า username และ email ของ git
 
 ---
 
-### อัพโหลด app ขึ้น ionic cloud (ต่อ)
+### อัพโหลด app ขึ้น ionic pro (ต่อ)  
 ```
 git config —global user.name "{your username}"
 git config —global user.email {your email}
 ```
-- push code เข้า ionic cloud
+- push code เข้า ionic pro  
 ```
 git push ionic master
 ```
 ---
 
-### อัพโหลด app ขึ้น ionic cloud (ต่อ)
+### อัพโหลด app ขึ้น ionic pro (ต่อ)
 ![img](/imgs/day-3-upload-2.png)  
 
 ---
