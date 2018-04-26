@@ -41,7 +41,7 @@ ionic start myapp blank
 ionic cordova plugin add cordova-plugin-camera
 ```
 ```
-npm install —save @ionic-native/camera
+npm install --save @ionic-native/camera
 ```
 
 - run app  
