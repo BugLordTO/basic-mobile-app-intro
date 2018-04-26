@@ -5,7 +5,7 @@
 
 ### Overview
 - ลงโปรแกรม
-- สร้าง App ถ่ายรูป
+- สร้าง App ถ่ายรูป ง่ายๆ
 - รันจริงบน mobile !!
 
 ---
@@ -166,8 +166,8 @@ ionin link [app-id]
 ### อัพโหลด app ขึ้น ionic pro (ต่อ)  
 - ตั้งค่า username และ email ของ git  
 ```
-git config —global user.name "{your username}"
-git config —global user.email {your email}
+git config --global user.name "{your username}"
+git config --global user.email {your email}
 ```
 - push code เข้า ionic pro  
 ```
