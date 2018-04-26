@@ -11,13 +11,15 @@
 ---
 
 ### ลงโปรแกรม
-- tortoise git  
+- git
  [32-bit Git for Windows Setup.](https://github.com/git-for-windows/git/releases/download/v2.16.2.windows.1/Git-2.16.2-32-bit.exe)  
- [64-bit Git for Windows Setup.](https://github.com/git-for-windows/git/releases/download/v2.16.2.windows.1/PortableGit-2.16.2-64-bit.7z.exe)  
+ [64-bit Git for Windows Setup.](https://github.com/git-for-windows/git/releases/download/v2.16.2.windows.1/Git-2.16.2-64-bit.exe)
+ [macOS Setup.]
+ (https://git-scm.com/download/mac)
 ![img](/imgs/git-logo.png)  
 
 - Visual Code  
-[Visual Code](https://go.microsoft.com/fwlink/?Linkid=852157)  
+[Visual Code](https://code.visualstudio.com/)  
 ![img](/imgs/vscode-logo.png)  
 
 ---
@@ -28,12 +30,11 @@
 ![img](/imgs/ionic-view-logo.png)  
 
 - ข้อจำกัด สำหรับ ionic view  
-  - android :No problem !  
-  - iOS : ionic view ถูกเอาออกจาก app store  
+  - ปัจจุบันใช้ได้เฉพาะบน android 
 
 ---
 
-### สร้าง app  ถ่ายรูปอัพลง instragram
+### สร้าง app  ถ่ายรูป
 ---
 
 ### ตกแต่งหน้าตา
