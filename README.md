@@ -12,6 +12,7 @@
     * [โครงสร้างโปรเจค](tutorial-structure.md)
     * [มาสร้าง Ionic app ตัวแรกของเรากันเถอะ](tutotial-ionic.md)
 * วันที่ 3
+	* [สไลด์ของวันที่ 3](https://gitpitch.com/mastertraining/basic-mobile-app-intro/p?p=day-3#)
     * [Ionic Cloud](https://dashboard.ionicframework.com)
     * สร้างและทำงานร่วมกับ Ionic Cloud
     * คำสั่ง Git เบื้องต้น
