@@ -35,12 +35,13 @@
 ```
 ionic start myapp tabs
 ```
+
 - เพิ่ม plugin camera  
 ```
 ionic cordova plugin add cordova-plugin-camera
-
 npm install —save @ionic-native/camera
 ```
+
 - run app  
 ```
 ionic serve
@@ -49,6 +50,7 @@ ionic serve
 ---
 
 ### ลง Code  
+- file ```\src\app\app.module.ts```  
 ![img](/imgs/day-3-code-1.png)  
 ```ts
 import { Camera } from '@ionic-native/camera';
@@ -72,6 +74,7 @@ import { Camera, CameraOptions } from '@ionic-native/camera';
 ---
 
 ### ลง Code  
+- file ```\src\pages\home\home.ts```  
 ![img](/imgs/day-3-code-4.png)  
 ```ts
 imgdata: string;
@@ -80,11 +83,13 @@ imgdata: string;
 ---
 
 ### ลง Code  
+- file ```\src\pages\home\home.ts```  
 ![img](/imgs/day-3-code-6.png)  
 
 ---
 
 ### ลง Code  
+- file ```\src\pages\home\home.ts```  
 ```ts
 capture() {
     const options: CameraOptions = {
@@ -113,6 +118,7 @@ capture() {
 ---
 
 ### ตกแต่งหน้าตา app (ต่อ)  
+- file ```\src\pages\home\home.html```  
 ```
 <br/>
 <button ion-button (click)="capture()">Capture</button>
@@ -152,11 +158,11 @@ cd /f/git/myapp
 ionin link [app-id]
 ```
 ![img](/imgs/day-3-upload-1.png)  
-- ตั้งค่า username และ email ของ git
 
 ---
 
 ### อัพโหลด app ขึ้น ionic pro (ต่อ)  
+- ตั้งค่า username และ email ของ git  
 ```
 git config —global user.name "{your username}"
 git config —global user.email {your email}
@@ -178,4 +184,3 @@ git push ionic master
 ---
 
 ### Share & comment
----
